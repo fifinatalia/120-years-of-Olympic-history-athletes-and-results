@@ -1,6 +1,6 @@
 # SQL-Portfolio
 
-**120 years of Olympic history: athletes and results**
+# **120 years of Olympic history: athletes and results**
 
 ![image](https://user-images.githubusercontent.com/106369674/215375687-34852bd7-1a2b-473b-be28-6c3de93500ee.png)
 
