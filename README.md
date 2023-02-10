@@ -6,6 +6,8 @@
 
 source data from kaggle: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
 
+View my data visualization for this study case [here](https://public.tableau.com/app/profile/fifi5043/viz/120YearsOfOlympicHistoryAthletesAndResults/Dashboard2).
+
 ## **Content**
 This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.
 The file athlete_events.csv contains 777772 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event (athlete-events). The columns are:
